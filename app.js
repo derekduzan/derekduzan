@@ -509,7 +509,7 @@ class BlogFeed {
                 
                 <div class="grid md:grid-cols-2 gap-8">
                     <div>
-                        <img src="profile2.jpg" 
+                        <img src="images/profile2.jpg" 
                              alt="Derek" 
                              class="rounded-lg shadow-lg w-full mb-4">
                     </div>
