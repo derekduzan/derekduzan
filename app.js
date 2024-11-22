@@ -510,23 +510,23 @@ class BlogFeed {
                 <div class="grid md:grid-cols-2 gap-8">
                     <div>
                         <img src="profile2.jpg" 
-                             alt="Derek Duzan" 
+                             alt="Derek" 
                              class="rounded-lg shadow-lg w-full mb-4">
                     </div>
                     <div class="space-y-6">
                         <p class="text-gray-300 text-lg leading-relaxed">
-                            Hello! I'm Derek Duzan, a passionate technologist and creative thinker with a deep interest in building innovative solutions.
+                            Hello! I'm Derek - My apologies.
                         </p>
                         <p class="text-gray-300 text-lg leading-relaxed">
-                            With years of experience in software development, I specialize in creating efficient, scalable applications that solve real-world problems.
+                            I like long walks along the beach and the mellow sounds of Everclear's Santa Monica. (I'm actually not a beach person at all, but I like lobster.)
                         </p>
                         <div class="space-y-4">
-                            <h3 class="text-2xl font-semibold text-white">Experience</h3>
+                            <h3 class="text-2xl font-semibold text-white">Pizza Toppings In Order of Importance</h3>
                             <ul class="space-y-3 text-gray-300">
-                                <li>• Full-stack Development</li>
-                                <li>• Cloud Architecture</li>
-                                <li>• System Design</li>
-                                <li>• Technical Leadership</li>
+                                <li>• Green Peppers</li>
+                                <li>• Black Olives</li>
+                                <li>• Onions</li>
+                                <li>• Spinach</li>
                             </ul>
                         </div>
                     </div>
